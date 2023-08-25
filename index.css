@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: solid gray;
+    margin: 1 auto;
+    text-align: left;
+}
+
+body {
+    font-family: 'Karla', Verdana, Tahoma, sans-serif;
+    background-color: #FFFFF0;
+}
+
+.property {
+    font-weight: bold;
+    color: #6B8E23;
+}
+
+thead {
+    background-color: #6B8E23;
+}
+
+code {
+    background-color: pink;
+    border-radius: 20%;
+}
